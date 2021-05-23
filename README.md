@@ -7,8 +7,6 @@ This is a Flutter based app in this app user can register who want to provide fo
 
 ![Screenshot_2021-05-23-12-35-31-87_0e5eb2259b872b8748b45822be603c0f](https://user-images.githubusercontent.com/54772074/119251869-8b4e1100-bbc6-11eb-904d-91fc7f3f7c98.jpg)
 
-![Screenshot_2021-05-23-12-35-57-85_0e5eb2259b872b8748b45822be603c0f](https://user-images.githubusercontent.com/54772074/119251873-95700f80-bbc6-11eb-995a-6006714f5938.jpg)
-
 ![Screenshot_2021-05-23-12-47-23-96_ec175aafa3448dc63a3f7111f413c818](https://user-images.githubusercontent.com/54772074/119251899-b46ea180-bbc6-11eb-8e20-67e2eae8930f.jpg)
 
 ![Screenshot_2021-05-23-12-47-44-73_ec175aafa3448dc63a3f7111f413c818](https://user-images.githubusercontent.com/54772074/119251906-bb95af80-bbc6-11eb-96fb-d0d9d3bae063.jpg)
